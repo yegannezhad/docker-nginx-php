@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.16.7
 
 ENV DRUSH_VERSION 8.1.15
 
